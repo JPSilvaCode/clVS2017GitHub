@@ -9,5 +9,6 @@
         public string Complemento { get; set; }
         public string Numero { get; set; }
         public string Fantasia { get; set; }
+        public string Cidade { get; set; }
     }
 }
